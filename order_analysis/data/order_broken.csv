@@ -1,0 +1,4 @@
+order_id,person_id,order_date,status,total_amount,currency,payment_method,shipping_method,notes
+1,10,2021-03-15,Delivered,not_a_number,USD,paypal,standard,тест порчи суммы
+2,11,2021-04-01,Delivered,12.50,EUR,klarna,express,
+3,12,2022-01-10,Shipped,oops,GBP,credit_card,fedex,
